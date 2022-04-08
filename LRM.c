@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	prtinf("hello world!");
+	prtinf("hello world!!");
 	return 0;
 }
